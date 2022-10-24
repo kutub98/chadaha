@@ -1,0 +1,22 @@
+@media screen and (min-width: 190px) and (max-width: 440px) {
+    .menuBox nav ul{
+        display: none;
+    }
+    #open{
+        display: block;
+    }
+    
+    .navbar-collapse {
+        display: block !important; 
+        flex-grow: none;
+    }
+    .navbar-collapse {
+        flex-basis: none;
+        flex-grow: 1;
+        align-items: center;
+        flex-grow: 45;
+    }
+ 
+
+   
+}
